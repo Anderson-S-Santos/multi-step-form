@@ -6,3 +6,4 @@ Um formulário de várias etapas. Com validação dos campos em javascript. Ao f
 
 - [X] Criar estrutura de pastas do projeto
 - [X] Adicionar arquivos iniciais do projeto
+- [X] Criar index.html e linkar os arquivos css e js
