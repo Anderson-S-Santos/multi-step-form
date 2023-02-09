@@ -65,22 +65,59 @@
                         <span class="span required">This field is require</span>
                     </div>
 
-                    <div> 
+                    <div>
                         <label class="labels" for="email">Email Address</label>
                         <input class="inputs" type="email" name="email address" id="email"
                             placeholder="anderson_silva@host.com">
-                            <span class="span required">This field is require</span>
+                        <span class="span required">This field is require</span>
                     </div>
 
                     <div>
                         <label class="labels" for="number">Phone Number</label>
                         <input class="inputs" type="number" name="phone number" id="number"
                             placeholder="+55 82 9 9999-9999">
-                            <span class="span required">This field is require</span>
+                        <span class="span required">This field is require</span>
                     </div>
                     <!-- Fim dos campos inputs etapa 1 -->
 
-                    
+                    <!-- Ínicio do cabeçalho do formulário etapa 2 -->
+                    <div class="header-step-2">
+                        <h1 class="title">Select your plan</h1>
+                        <p class="description">You have the option of monthly or yearly billing.</p>
+                    </div>
+                    <!-- Fim do cabeçalho do formulário etapa 2-->
+
+                    <!-- Ínicio dos cartões dos planos -->
+                    <div class="cards">
+                        <div class="card selected">
+                            <img src="./src/assets/images/icon-arcade.svg" alt="arcade">
+                            <h3 class="card-title">Arcade</h3>
+                            <span class="card-info">$9/mo</span>
+                        </div>
+
+                        <div class="card">
+                            <img src="./src/assets/images/icon-advanced.svg" alt="advanced">
+                            <h3 class="card-title">Advanced</h3>
+                            <span class="card-info">$12/mo</span>
+                        </div>
+
+                        <div class="card">
+                            <img src="./src/assets/images/icon-pro.svg" alt="pro">
+                            <h3 class="card-title">Pro</h3>
+                            <span class="card-info">$15/mo</span>
+                        </div>
+
+                        <div class="switcher">
+                            <p class="monthly sw-active">Monthly</p>
+                            <label for="" class="switch"></label>
+                            <input type="checkbox" name="select" id="select">
+                        </div>
+
+                        <div class="btns">
+                            <button class="go-back">Go Back</button>
+                            <button class="next-step">Next Step</button>
+                        </div>
+                    </div>
                 </div>
             </div>
     </main>
