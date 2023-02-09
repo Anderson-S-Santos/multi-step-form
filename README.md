@@ -13,7 +13,7 @@ Um formulário de várias etapas. Com validação dos campos em javascript. Ao f
 
 - [X] Criar estrutura inicial da página
 - [X] Criar estrutura da etapa 1 da barra lateral do formulário
-- [ ] Criar estrutura da etapa 2 da barra lateral do formulário
+- [X] Criar estrutura da etapa 2 da barra lateral do formulário
 - [ ] Criar estrutura da etapa 3 da barra lateral do formulário
 - [ ] Criar estrutura da etapa 4 da barra lateral do formulário
 - [ ] Criar conteúdo da etapa 1 do formulário
