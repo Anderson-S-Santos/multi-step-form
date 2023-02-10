@@ -27,7 +27,7 @@ Um formulário de várias etapas. Com validação dos campos em javascript. Ao f
 
  - [ ] Aplicar conceito de Mobile firts
  - [X] Criar arquivo reset css
- - [ ] Importar fontes
+ - [X] Importar fontes
  - [ ] Criar caixa que irá receber todos os elementos
  - [ ] Adicionar imamgem de background no topo
  - [ ] Adicionar background color 
