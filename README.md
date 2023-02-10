@@ -20,5 +20,5 @@ Um formulário de várias etapas. Com validação dos campos em javascript. Ao f
 - [X] Criar conteúdo da etapa 2 do formulário
 - [X] Criar conteúdo da etapa 3 do formulário
 - [X] Criar conteúdo da etapa 4 do formulário
-- [ ] Concluir estrutura do formulário
+- [ ] Concluir formulário 
  
