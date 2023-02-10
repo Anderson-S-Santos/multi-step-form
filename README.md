@@ -29,7 +29,7 @@ Um formulário de várias etapas. Com validação dos campos em javascript. Ao f
  - [X] Criar arquivo reset css
  - [X] Importar fontes
  - [X] Linkar arquivo reset css no index.html
- - [ ] Criar variáveis para as cores que serão utilizadas
+ - [X] Criar variáveis para as cores que serão utilizadas
  - [ ] Criar caixa que irá receber todos os elementos
  - [ ] Adicionar imamgem de background no topo
  - [ ] Adicionar background color 
