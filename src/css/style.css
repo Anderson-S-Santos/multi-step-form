@@ -33,6 +33,11 @@
     --white: hsl(0, 0%, 100%); 
 }
 
+.sidebar {
+    background-image: url(../assets/images/bg-sidebar-mobile.svg);
+    height: 20vh;
+}
+
 .step-content {
     display: none;
 }
