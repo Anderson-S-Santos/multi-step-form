@@ -22,3 +22,14 @@ Um formulário de várias etapas. Com validação dos campos em javascript. Ao f
 - [X] Criar conteúdo da etapa 4 do formulário
 - [X] Concluir estrutura do formulário 
  
+
+ ### CSS
+
+ - [ ] Aplicar conceito de Mobile firts
+ - [ ] Criar caixa que irá receber todos os elementos
+ - [ ] Adicionar imamgem de background no topo
+ - [ ] Adicionar background color 
+ - [ ] Estilizar cabeçalho das etapas
+ - [ ] Estilizar label dos inputs
+ - [ ] Estilizar inputs
+ - [ ] Estilzar botão próxima etapa
