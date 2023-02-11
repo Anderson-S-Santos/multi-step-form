@@ -115,3 +115,8 @@ body {
     margin-bottom: 1em;
 }
 
+.description {
+    font-family: 'Ubuntu-Regular', sans-serif;
+    font-size: 1.1em;
+    color: var(--cool-gray);
+}
