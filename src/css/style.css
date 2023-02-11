@@ -75,3 +75,16 @@
 .step-content {
     display: none;
 }
+
+.step-box {
+    background-color: white;
+    width: 90vw;
+    margin: auto;
+    padding: 1em;
+    height: 50vh;
+    margin-top: -4.4em;
+    border-radius: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
