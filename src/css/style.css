@@ -120,3 +120,35 @@ body {
     font-size: 1.1em;
     color: var(--cool-gray);
 }
+
+.inputs-box {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+}
+
+.inputs {
+    border-style: none;
+    border: 1px solid var(--cool-gray);
+    padding: 1em;
+    border-radius: 0.4em;
+    font-family: 'Ubuntu-Medium', sans-serif;
+    font-size: 0.9em;
+}
+
+.labels {
+    margin-bottom: 0.5em;
+    font-family: 'Ubuntu-Regular', sans-serif;
+    color: var(--marina-blue);
+}
+
+.span {
+    margin-top: 0.5em;
+    font-family: 'Ubuntu-Regular', sans-serif;
+    display: none;
+}
+
+.required {
+    color: var(--strawberry-red);
+}
+
