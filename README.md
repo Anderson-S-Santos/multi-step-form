@@ -34,7 +34,7 @@ Um formulário de várias etapas. Com validação dos campos em javascript. Ao f
  - [X] Adicionar imamgem de background no topo
  - [X] Estilizar circulos das etapas 
  - [X] Estilizar cabeçalho das etapas
- - [ ] Adicionar background color 
+ - [X] Adicionar background color 
  - [ ] Estilizar label dos inputs
  - [ ] Estilizar inputs
  - [ ] Estilzar botão próxima etapa
