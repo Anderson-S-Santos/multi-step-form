@@ -30,7 +30,7 @@ Um formulário de várias etapas. Com validação dos campos em javascript. Ao f
  - [X] Importar fontes
  - [X] Linkar arquivo reset css no index.html
  - [X] Criar variáveis para as cores que serão utilizadas
- - [ ] Criar caixa que irá receber todos os elementos
+ - [X] Criar caixa que irá receber todos os elementos
  - [X] Adicionar imamgem de background no topo
  - [X] Estilizar circulos das etapas 
  - [X] Estilizar cabeçalho das etapas
