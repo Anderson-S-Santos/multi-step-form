@@ -107,6 +107,7 @@ body {
     color: white;
     font-family: 'Ubuntu-Medium', sans-serif;
     border: none;
+    cursor: pointer;
 }
 
 .title {
