@@ -17,6 +17,9 @@
     font-weight: 400;
 }
 
+body {
+    background-color: var(--magnolia);
+}
 :root {
     /* Primary */
     --marina-blue: hsl(213, 96%, 18%);
