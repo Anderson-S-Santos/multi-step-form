@@ -108,3 +108,10 @@ body {
     font-family: 'Ubuntu-Medium', sans-serif;
     border: none;
 }
+
+.title {
+    font-family: 'Ubuntu-Bold', sans-serif;
+    color: var(--marina-blue);
+    margin-bottom: 1em;
+}
+
