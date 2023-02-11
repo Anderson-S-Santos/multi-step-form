@@ -38,6 +38,40 @@
     height: 20vh;
 }
 
+.sidebar-content {
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+    gap: 1em;
+    color: var(--white);
+    font-family: 'Ubuntu-Medium', sans-serif;
+}
+
+.step-active {
+    background-color: var(--light-blue);
+    padding: 1em;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--marina-blue);
+    font-family: 'Ubuntu-Medium', sans-serif;
+    border: none;
+}
+
+.circle {
+    padding: 1em;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid var(--light-blue);
+    align-items: center;
+}
+
 .step-content {
     display: none;
 }
