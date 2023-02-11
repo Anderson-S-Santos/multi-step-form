@@ -112,7 +112,8 @@ body {
 .title {
     font-family: 'Ubuntu-Bold', sans-serif;
     color: var(--marina-blue);
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
+    margin-top: 1em;
 }
 
 .description {
