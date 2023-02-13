@@ -156,11 +156,57 @@ body {
 }
 
 @media screen and (min-width: 800px) {
+    body {
+        cursor: auto;
+        width: 900px;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .form {
+        display: flex;
+        justify-content: center;
+        margin: auto;
+        align-items: center;
+        flex-wrap: nowrap;
+        background: white;
+        margin-top: 6em;
+        border-radius: 1em;
+    }
+
+    .form-container {
+        display: flex;
+        padding: 1em;
+        justify-content: center;
+    }
+
     .sidebar {
         background-image: url(../assets/images/bg-sidebar-desktop.svg);
         background-size: cover;
+        height: 76vh;
+        background-size: cover;
     }
-    .header-step2, .cards, .header-step3, .checkboxs, .header-step4, .content-summary {
+
+    .sidebar-content {
+        display: flex;
+        width: 31vw;
+        flex-direction: column;
+        gap: 4em;
+        background: no-repeat;
+        max-width: 1440px;
+        background-size: cover;
+    }
+
+    .header-step2,
+    .cards,
+    .header-step3,
+    .checkboxs,
+    .header-step4,
+    .content-summary {
         display: none;
     }
+
+
 }
