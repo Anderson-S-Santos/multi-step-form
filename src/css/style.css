@@ -20,20 +20,21 @@
 body {
     background-color: var(--magnolia);
 }
+
 :root {
     /* Primary */
     --marina-blue: hsl(213, 96%, 18%);
     --purpish-blue: hsl(243, 100%, 62%);
-    --pastel-blue:  hsl(228, 100%, 84%);
-    --light-blue:  hsl(206, 94%, 87%);
+    --pastel-blue: hsl(228, 100%, 84%);
+    --light-blue: hsl(206, 94%, 87%);
     --strawberry-red: hsl(354, 84%, 57%);
 
-   /* Neutral */
+    /* Neutral */
     --cool-gray: hsl(231, 11%, 63%);
     --light-gray: hsl(229, 24%, 87%);
     --magnolia: hsl(217, 100%, 97%);
     --alabaster: hsl(231, 100%, 99%);
-    --white: hsl(0, 0%, 100%); 
+    --white: hsl(0, 0%, 100%);
 }
 
 .sidebar {
@@ -154,3 +155,12 @@ body {
     color: var(--strawberry-red);
 }
 
+@media screen and (min-width: 800px) {
+    .sidebar {
+        background-image: url(../assets/images/bg-sidebar-desktop.svg);
+        background-size: cover;
+    }
+    .header-step2, .cards, .header-step3, .checkboxs, .header-step4, .content-summary {
+        display: none;
+    }
+}
