@@ -199,6 +199,14 @@ body {
         background-size: cover;
     }
 
+    .step-box {
+
+        width: 52vw;
+        height: 57vh;
+        background: none;
+        margin-top: 0.5em;
+    }
+
     .header-step2,
     .cards,
     .header-step3,
